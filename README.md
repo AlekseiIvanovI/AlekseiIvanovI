@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://alexicoder.com/](https://alexicoder.com/)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1z0YMz9Zh2hARmxHp4D5OrOnkZ9npystM/view?usp=sharing)
+- 📄 Know about my experiences [here]([https://drive.google.com/file/d/1z0YMz9Zh2hARmxHp4D5OrOnkZ9npystM/view?usp=sharing](https://drive.google.com/file/d/1VErCF4cSqcgN5ijUbUvLpEBeQ1igLl6f/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
