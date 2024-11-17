@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://vocal-peony-b3f0ca.netlify.app/)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nXkSTFQWxiZhFm5pIejoJZQXUE6nkREr/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GpDWXaK2zhMCM_cLVyfv2EAR858UQnE2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
