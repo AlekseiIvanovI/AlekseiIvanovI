@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseiivanovi&label=Profile%20views&color=0e75b6&style=flat" alt="alekseiivanovi" /> </p>
 
-- 👨‍💻 All of my projects are available [here](https://vocal-peony-b3f0ca.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://vocal-peony-b3f0ca.netlify.app/](https://qa-portfolio.netlify.app/)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1GpDWXaK2zhMCM_cLVyfv2EAR858UQnE2/view?usp=drive_link)
 
