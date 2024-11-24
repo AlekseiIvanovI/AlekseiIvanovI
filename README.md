@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://qa-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GpDWXaK2zhMCM_cLVyfv2EAR858UQnE2/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alekseiiva31301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alekseiiva31301" height="30" width="40" /></a>
