@@ -17,9 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlekseiIvanovI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AlekseiIvanovI?label=Followers&style=flat&color=brightgreen" alt="Followers" />
   <img src="https://img.shields.io/github/stars/AlekseiIvanovI?affiliations=OWNER&style=flat&color=yellow" alt="Total Stars" />
-  <img src="https://img.shields.io/github/forks/AlekseiIvanovI?affiliations=OWNER&style=flat&color=blue" alt="Total Forks" />
   <img src="https://img.shields.io/github/commit-activity/m/AlekseiIvanovI/qa-automation-portfolio?style=flat&color=purple" alt="Recent Commits (Main Repo)" />
-  <img src="https://img.shields.io/github/repo-size/AlekseiIvanovI/qa-automation-portfolio?style=flat&color=red" alt="Main Repo Size" />
 </p>
 
 <h3 align="left">Top Repositories</h3>
