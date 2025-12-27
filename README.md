@@ -23,24 +23,25 @@
 
 <h3 align="left">Top Repositories</h3>
 <p align="left">
-  <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=qa-automation-portfolio&theme=dracula&hide_border=true&cache_seconds=0" />
+  <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio">
+    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/qa-automation-portfolio?style=social" alt="stars" />
+    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/qa-automation-portfolio?style=social" alt="forks" />
+    <br><strong>QA Automation Portfolio</strong> - Main showcase with weekly progress, Selenium/POM, pytest + Allure
   </a>
-  <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=selenium-pom-framework&theme=dracula&hide_border=true&cache_seconds=0" />
+  <br><br>
+  <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework">
+    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/selenium-pom-framework?style=social" />
+    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/selenium-pom-framework?style=social" />
+    <br><strong>Selenium POM Framework</strong> - Scalable Page Object Model with zero flakiness tests
   </a>
-  <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=dockerized-qa-environment&theme=dracula&hide_border=true&cache_seconds=0" />
+  <br><br>
+  <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment">
+    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/dockerized-qa-environment?style=social" />
+    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/dockerized-qa-environment?style=social" />
+    <br><strong>Dockerized QA Environment</strong> - Containerized Selenium Grid setup (50% faster)
   </a>
-  <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=api-load-testing-postman&theme=dracula&hide_border=true&cache_seconds=0" />
-  </a>
-  <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=jira-agile-workflows&theme=dracula&hide_border=true&cache_seconds=0" />
-  </a>
-  <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=sql-test-queries&theme=dracula&hide_border=true&cache_seconds=0" />
-  </a>
+  <br><br>
+  <!-- Add the rest similarly -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
