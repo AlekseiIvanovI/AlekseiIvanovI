@@ -14,11 +14,13 @@
 
 <h3 align="left">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlekseiIvanovI&theme=dracula&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlekseiIvanovI&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Aleksei's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiIvanovI&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=AlekseiIvanovI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <img src="https://img.shields.io/github/stars/AlekseiIvanovI?affiliations=OWNER&style=flat&color=yellow" alt="Total Stars" />
+  <img src="https://img.shields.io/github/forks/AlekseiIvanovI?affiliations=OWNER&style=flat&color=green" alt="Total Forks" />
+  <img src="https://img.shields.io/github/commit-activity/m/AlekseiIvanovI/qa-automation-portfolio?style=flat&color=blue" alt="Commits this month" />
+  <img src="https://img.shields.io/github/languages/count/AlekseiIvanovI?color=orange" alt="Languages Count" />
+  <img src="https://img.shields.io/github/repo-size/AlekseiIvanovI/qa-automation-portfolio?style=flat" alt="Main Repo Size" />
 </p>
 
 <h3 align="left">Top Repositories</h3>
