@@ -24,22 +24,22 @@
 <h3 align="left">Top Repositories</h3>
 <p align="left">
   <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=qa-automation-portfolio&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=qa-automation-portfolio&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
   <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=selenium-pom-framework&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=selenium-pom-framework&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
   <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=dockerized-qa-environment&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=dockerized-qa-environment&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
   <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=api-load-testing-postman&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=api-load-testing-postman&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
   <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=jira-agile-workflows&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=jira-agile-workflows&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
   <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=sql-test-queries&theme=dracula&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlekseiIvanovI&repo=sql-test-queries&theme=dracula&hide_border=true&cache_seconds=0" />
   </a>
 </p>
 
