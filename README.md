@@ -23,27 +23,27 @@
 <h3 align="left">Top Repositories</h3>
 <p align="left">
   <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/qa-automation-portfolio" alt="QA Automation Portfolio" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/qa-automation-portfolio" alt="QA Automation Portfolio" width="200" />
   </a>
   <br><br>
   <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/selenium-pom-framework" alt="Selenium POM Framework" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/selenium-pom-framework" alt="Selenium POM Framework" width="200" />
   </a>
   <br><br>
   <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/api-load-testing-postman" alt="API Load Testing with Postman" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/api-load-testing-postman" alt="API Load Testing with Postman" width="200" />
   </a>
   <br><br>
   <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="200" />
   </a>
   <br><br>
   <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="200" />
   </a>
   <br><br>
   <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="SQL Test Queries" width="400" />
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="SQL Test Queries" width="200" />
   </a>
 </p>
 
