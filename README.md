@@ -21,32 +21,48 @@
 </p>
 
 <h3 align="left">Top Repositories</h3>
-<p align="left">
-  <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/qa-automation-portfolio" alt="QA Automation Portfolio" width="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/selenium-pom-framework" alt="Selenium POM Framework" width="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/api-load-testing-postman" alt="API Load Testing with Postman" width="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="200" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
-    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="SQL Test Queries" width="200" />
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/qa-automation-portfolio" alt="QA Automation Portfolio" width="400" />
+      </a>
+      <br><strong>QA Automation Portfolio</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/selenium-pom-framework" alt="Selenium POM Framework" width="400" />
+      </a>
+      <br><strong>Selenium POM Framework</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/api-load-testing-postman" alt="API Load Testing with Postman" width="400" />
+      </a>
+      <br><strong>API Load Testing (Postman)</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="400" />
+      </a>
+      <br><strong>Dockerized QA Environment</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="400" />
+      </a>
+      <br><strong>JIRA Agile Workflows</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="SQL Test Queries" width="400" />
+      </a>
+      <br><strong>SQL Test Queries</strong>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a> 
