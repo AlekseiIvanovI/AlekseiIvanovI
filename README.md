@@ -22,25 +22,29 @@
 
 <h3 align="left">Top Repositories</h3>
 <p align="left">
-  <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio">
-    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/qa-automation-portfolio?style=social" alt="stars" />
-    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/qa-automation-portfolio?style=social" alt="forks" />
-    <br><strong>QA Automation Portfolio</strong> - Main showcase with weekly progress, Selenium/POM, pytest + Allure
+  <a href="https://github.com/AlekseiIvanovI/qa-automation-portfolio" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/qa-automation-portfolio" alt="QA Automation Portfolio" width="400" />
   </a>
   <br><br>
-  <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework">
-    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/selenium-pom-framework?style=social" />
-    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/selenium-pom-framework?style=social" />
-    <br><strong>Selenium POM Framework</strong> - Scalable Page Object Model with zero flakiness tests
+  <a href="https://github.com/AlekseiIvanovI/selenium-pom-framework" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/selenium-pom-framework" alt="Selenium POM Framework" width="400" />
   </a>
   <br><br>
-  <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment">
-    <img align="center" src="https://img.shields.io/github/stars/AlekseiIvanovI/dockerized-qa-environment?style=social" />
-    <img align="center" src="https://img.shields.io/github/forks/AlekseiIvanovI/dockerized-qa-environment?style=social" />
-    <br><strong>Dockerized QA Environment</strong> - Containerized Selenium Grid setup (50% faster)
+  <a href="https://github.com/AlekseiIvanovI/api-load-testing-postman" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/api-load-testing-postman" alt="API Load Testing with Postman" width="400" />
   </a>
   <br><br>
-  <!-- Add the rest similarly -->
+  <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="400" />
+  </a>
+  <br><br>
+  <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="400" />
+  </a>
+  <br><br>
+  <a href="https://github.com/AlekseiIvanovI/sql-test-queries" target="_blank" rel="noreferrer">
+    <img align="center" src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="SQL Test Queries" width="400" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
