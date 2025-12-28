@@ -57,6 +57,12 @@
       </a>
       <br><strong>SQL Test Queries</strong>
     </td>
+    <td align="center">
+      <a href="https://github.com/AlekseiIvanovI/end-to-end-qa-pipeline" target="_blank" rel="noreferrer">
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/sql-test-queries" alt="End To End QA Pipeline" width="400" />
+      </a>
+      <br><strong>End To End QA Pipeline</strong>
+    </td>
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
