@@ -37,14 +37,14 @@
       </a>
       <br><strong>API Load Testing (Postman)</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AlekseiIvanovI/dockerized-qa-environment" target="_blank" rel="noreferrer">
         <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/dockerized-qa-environment" alt="Dockerized QA Environment" width="400" />
       </a>
       <br><strong>Dockerized QA Environment</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/AlekseiIvanovI/jira-agile-workflows" target="_blank" rel="noreferrer">
         <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/jira-agile-workflows" alt="JIRA Agile Workflows" width="400" />
@@ -59,9 +59,9 @@
     </td>
     <td align="center">
       <a href="https://github.com/AlekseiIvanovI/end-to-end-qa-pipeline" target="_blank" rel="noreferrer">
-        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/end-to-end-qa-pipeline" alt="End To End QA Pipeline" width="400" />
+        <img src="https://opengraph.githubassets.com/1/AlekseiIvanovI/end-to-end-qa-pipeline" alt="End-to-End QA Pipeline" width="400" />
       </a>
-      <br><strong>End To End QA Pipeline</strong>
+      <br><strong>End-to-End QA Pipeline</strong>
     </td>
   </tr>
 </table>
