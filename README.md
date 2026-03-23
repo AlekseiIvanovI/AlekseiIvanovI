@@ -3,7 +3,7 @@
 
 ### Connect with me
 - **GitHub**: [github.com/AlekseiIvanovI](https://github.com/AlekseiIvanovI)  
-- **LinkedIn**: [linkedin.com/in/alekseivanovI](https://linkedin.com/in/alekseivanovI)
+- **LinkedIn**: [linkedin.com/in/alekseixivanov](https://www.linkedin.com/in/alekseixivanov/)
 - **Email**: aleksei.ivanov.qa@gmail.com  
 - **Phone**: (916) 917-8245
 
