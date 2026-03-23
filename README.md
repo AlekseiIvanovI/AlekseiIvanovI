@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aleksei Ivanov</h1>
 <h3 align="center">QA Automation Engineer | Delivering High-Quality Software Through Scalable Automation & Modern CI/CD</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/alekseiiva31301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alekseiiva31301" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/alekseixivanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alekseixivanov" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/aleksei.ivanov.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aleksei.ivanov.dev" height="30" width="40" /></a>
-</p>
+### Connect with me
+- **GitHub**: [github.com/AlekseiIvanovI](https://github.com/AlekseiIvanovI)  
+- **LinkedIn**: [linkedin.com/in/alekseivanov1](https://linkedin.com/in/alekseivanov1)  
+- **Email**: aleksei.ivanov.qa@gmail.com  
+- **Phone**: (916) 917-8245
 
 
 <h3 align="left">Top Repositories</h3>
