@@ -8,13 +8,6 @@
   <a href="https://www.facebook.com/aleksei.ivanov.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aleksei.ivanov.dev" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlekseiIvanovI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AlekseiIvanovI?label=Followers&style=flat&color=brightgreen" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AlekseiIvanovI?affiliations=OWNER&style=flat&color=yellow" alt="Total Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/AlekseiIvanovI/qa-automation-portfolio?style=flat&color=purple" alt="Recent Commits (Main Repo)" />
-</p>
 
 <h3 align="left">Top Repositories</h3>
 <table align="center">
