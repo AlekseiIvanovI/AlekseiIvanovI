@@ -2,9 +2,8 @@
 <h3 align="center">QA Automation Engineer | Delivering High-Quality Software Through Scalable Automation & Modern CI/CD</h3>
 
 ### Connect with me
-- **GitHub**: [github.com/AlekseiIvanovI](https://github.com/AlekseiIvanovI)  
 - **LinkedIn**: [linkedin.com/in/alekseixivanov](https://www.linkedin.com/in/alekseixivanov/)
-- **Email**: aleksei.ivanov.qa@gmail.com  
+- **Email**: [aleksei.ivanov.qa@gmail.com](mailto:aleksei.ivanov.qa@gmail.com) 
 - **Phone**: (916) 917-8245
 
 
